@@ -1,23 +1,30 @@
 {
   "files": {
-    "main.css": "/reactproject/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/reactproject/static/js/main.42c310b4.chunk.js",
-    "main.js.map": "/reactproject/static/js/main.42c310b4.chunk.js.map",
-    "runtime-main.js": "/reactproject/static/js/runtime-main.cc42bfeb.js",
-    "runtime-main.js.map": "/reactproject/static/js/runtime-main.cc42bfeb.js.map",
-    "static/js/2.5b5c2a3c.chunk.js": "/reactproject/static/js/2.5b5c2a3c.chunk.js",
-    "static/js/2.5b5c2a3c.chunk.js.map": "/reactproject/static/js/2.5b5c2a3c.chunk.js.map",
-    "static/js/3.5f85ec9d.chunk.js": "/reactproject/static/js/3.5f85ec9d.chunk.js",
-    "static/js/3.5f85ec9d.chunk.js.map": "/reactproject/static/js/3.5f85ec9d.chunk.js.map",
+    "main.css": "/reactproject/static/css/main.c1e5198f.chunk.css",
+    "main.js": "/reactproject/static/js/main.974de06d.chunk.js",
+    "main.js.map": "/reactproject/static/js/main.974de06d.chunk.js.map",
+    "runtime-main.js": "/reactproject/static/js/runtime-main.1c16d89a.js",
+    "runtime-main.js.map": "/reactproject/static/js/runtime-main.1c16d89a.js.map",
+    "static/css/2.78afd4a5.chunk.css": "/reactproject/static/css/2.78afd4a5.chunk.css",
+    "static/js/2.bb49371f.chunk.js": "/reactproject/static/js/2.bb49371f.chunk.js",
+    "static/js/2.bb49371f.chunk.js.map": "/reactproject/static/js/2.bb49371f.chunk.js.map",
     "index.html": "/reactproject/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/reactproject/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.5b5c2a3c.chunk.js.LICENSE.txt": "/reactproject/static/js/2.5b5c2a3c.chunk.js.LICENSE.txt",
-    "static/media/faisal_img.f7dd6603.JPG": "/reactproject/static/media/faisal_img.f7dd6603.JPG"
+    "static/css/2.78afd4a5.chunk.css.map": "/reactproject/static/css/2.78afd4a5.chunk.css.map",
+    "static/css/main.c1e5198f.chunk.css.map": "/reactproject/static/css/main.c1e5198f.chunk.css.map",
+    "static/js/2.bb49371f.chunk.js.LICENSE.txt": "/reactproject/static/js/2.bb49371f.chunk.js.LICENSE.txt",
+    "static/media/about1.b91c1eee.png": "/reactproject/static/media/about1.b91c1eee.png",
+    "static/media/about2.9d99d401.png": "/reactproject/static/media/about2.9d99d401.png",
+    "static/media/banner.e22eb5fa.png": "/reactproject/static/media/banner.e22eb5fa.png",
+    "static/media/App.css": "/reactproject/static/media/footer.16eebffb.png",
+    "static/media/mission.39919171.png": "/reactproject/static/media/mission.39919171.png",
+    "static/media/values.e1462aeb.png": "/reactproject/static/media/values.e1462aeb.png",
+    "static/media/vision.14b8eba9.png": "/reactproject/static/media/vision.14b8eba9.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.cc42bfeb.js",
-    "static/js/2.5b5c2a3c.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.42c310b4.chunk.js"
+    "static/js/runtime-main.1c16d89a.js",
+    "static/css/2.78afd4a5.chunk.css",
+    "static/js/2.bb49371f.chunk.js",
+    "static/css/main.c1e5198f.chunk.css",
+    "static/js/main.974de06d.chunk.js"
   ]
 }
