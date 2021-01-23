@@ -4,7 +4,7 @@ function App() {
   return (
     <>
     <div style={{textAlign: "center"}}>
-    <h1>My React App on Github</h1>
+    <h1 style={{backgroundColor: "Blue",padding:"10px 0"}}>My React App on Github</h1>
     <h2>Author: Mohd Faisal</h2>
     <img src={faisal_img} width="600px"/>
     </div>
